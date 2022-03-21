@@ -1,0 +1,9 @@
+.manu-container {
+    list-style: none;
+    font-size: 20px;
+
+    
+}
+.manu-container li {
+    padding-left: 15px;
+}
